@@ -1,0 +1,17 @@
+body{
+    border: solid 1px red;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+
+}
+
+.head{
+    border: solid 1px rgb(0, 0, 0);
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    background-color: blueviolet;
+    text-align: center;
+}
